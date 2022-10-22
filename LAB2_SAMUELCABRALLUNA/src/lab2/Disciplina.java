@@ -22,10 +22,6 @@ public class Disciplina {
 	 */
 	private double[] notas;
 	/**
-	 * Quantidade de notas da disciplina.
-	 */
-	int numeroDeNotas = 4;
-	/**
 	 * Array de inteiros que contém o peso de cada nota da disciplina.
 	 */
 	int[] pesos;

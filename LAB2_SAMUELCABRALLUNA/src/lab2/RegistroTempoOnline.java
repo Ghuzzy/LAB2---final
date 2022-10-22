@@ -9,15 +9,15 @@ public class RegistroTempoOnline {
 	/**
 	 * Representa o tempo online esperado para disciplina.
 	 */
-	int tempoOnlineEsperado;
+	private int tempoOnlineEsperado;
 	/**
 	 * Representa o nome da disciplina.
 	 */
-	String nomeDisciplina;
+	private String nomeDisciplina;
 	/**
 	 * Tempo em horas gasto online estudando a disciplina.
 	 */
-	int tempo;
+	private int tempo;
 
 	/**
 	 * Constrói o registro de tempo online a partir do nome da disciplina e o tempo

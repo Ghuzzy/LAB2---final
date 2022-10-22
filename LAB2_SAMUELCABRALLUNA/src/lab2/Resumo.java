@@ -9,11 +9,11 @@ public class Resumo {
 	/**
 	 * Tema do resumo.
 	 */
-	String tema;
+	private String tema;
 	/**
 	 * Conteúdo do resumo.
 	 */
-	String texto;
+	private String texto;
 
 	/**
 	 * Constrói um Resumo a partir de tema e texto.
